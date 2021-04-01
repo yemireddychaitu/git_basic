@@ -1,1 +1,6 @@
 this is my second file in github.
+instructions to push a file in github
+step 0: ensure that there is an empty line at the end of each file.
+step 1: git add .
+step 2: git commit -m "created second one"
+step 3: git push
