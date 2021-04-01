@@ -5,4 +5,4 @@ step 3:make sure that name in github branch is same as vs "step 2"
 step 4:add or modify new files in this branch 
 step 5:git add .
 step 6:git commit -m "description"
-step 7:git push orgin development
+step 7:git push origin development
