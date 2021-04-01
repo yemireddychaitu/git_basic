@@ -1,0 +1,8 @@
+instructions for creating a branch in vs
+step 1:create a branch in repository  in github.
+step 2:in the terminal of vs code : git checkout -b "development"
+step 3:make sure that name in github branch is same as vs "step 2"
+step 4:add or modify new files in this branch 
+step 5:git add .
+step 6:git commit -m "description"
+step 7:git push orgin development
